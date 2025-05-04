@@ -2,7 +2,7 @@
 
 ## 👤 About me
 
-🗣️ I am slowly but surely building my career in data analysis and database management. I am currently mastering SQL, Power BI, Tableau and Phyton.
+ I am slowly but surely building my career in data analysis and database management. I am currently mastering SQL, Power BI, Tableau and Phyton.
 I will be gradually adding new projects as I learn and grow. Let´s do this!
 
 ## 🛠️ What I do
